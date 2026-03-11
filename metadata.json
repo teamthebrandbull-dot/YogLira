@@ -1,0 +1,8 @@
+{
+  "name": "Remix: YogLira - AI Yoga \u0026 Wellness",
+  "description": "A production-ready AI Yoga learning platform with referral rewards, subscription billing, and personalized routines.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
